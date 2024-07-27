@@ -23,10 +23,10 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Ideia de capa para um minibook
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Leonardo.AI, ChatGPT e PowerPoint
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
